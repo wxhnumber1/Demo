@@ -9,7 +9,7 @@ import java.util.List;
 import org.junit.Test;
 
 public class DemoTest {
- 
+  //-----------
 	
 	/*  事务>事务是确保"同时成功则成功，任何一个失败则失败"的一种机制。
 	一个事务往往包括三种动作行为：开始事务（Begin Transaction），提交事务（Commit）和回滚（Rollback）。
